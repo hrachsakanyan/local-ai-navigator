@@ -1,0 +1,13 @@
+{
+  "name": "local-ai-navigator",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build"
+  },
+  "devDependencies": {
+    "turbo": "^2.10.4"
+  }
+}

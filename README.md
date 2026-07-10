@@ -61,3 +61,9 @@ Local-Ai-Navigator/
 | `src/utils` | Helper functions and utilities |
 | `packages/shared` | Shared code between applications |
 | `public` | Static assets such as images and icons |
+
+## Screenshots
+
+![Home](screenshots/home.png)
+
+![Telegram](screenshots/telegram.png)
