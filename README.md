@@ -63,13 +63,20 @@ Local-Ai-Navigator/
 | `public`          | Static assets such as images and icons   |
 
 
+## 📸 Screenshots
+
 <p align="center">
   <img src="screenshots/1.png" width="250"/>
   <img src="screenshots/5.png" width="250"/>
   <img src="screenshots/4.png" width="250"/>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="screenshots/3.png" width="250"/>
+  <img src="screenshots/2.png" width="250"/>
+</p>
 
 ## 🎨 Design Philosophy
 
@@ -88,7 +95,5 @@ The interface combines:
 
 GitHub:  
 https://github.com/hrachsakanyan
-<p align="center">
-  <img src="screenshots/3.png" width="250"/>
   <img src="screenshots/2.png" width="250"/>
 </p>
