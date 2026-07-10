@@ -69,6 +69,25 @@ Local-Ai-Navigator/
   <img src="screenshots/4.png" width="250"/>
 </p>
 
+---
+
+## 🎨 Design Philosophy
+
+The interface combines:
+
+- 🍎 Apple Maps inspired navigation
+- 🏠 Airbnb inspired place cards
+- 📱 Mobile-first user experience
+- ✨ Clean and intuitive interactions
+
+---
+
+## 👨‍💻 Author
+
+**Hrach Sakanyan**
+
+GitHub:  
+https://github.com/hrachsakanyan
 <p align="center">
   <img src="screenshots/3.png" width="250"/>
   <img src="screenshots/2.png" width="250"/>
