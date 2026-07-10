@@ -52,16 +52,20 @@ Local-Ai-Navigator/
 
 ## 📁 Folder Description
 
-| Folder | Description |
-|--------|-------------|
-| `apps/miniapp` | Main Telegram Mini App application |
-| `src/components` | Reusable UI components |
-| `src/hooks` | Custom React hooks and application logic |
-| `src/services` | API communication and external services |
-| `src/utils` | Helper functions and utilities |
-| `packages/shared` | Shared code between applications |
-| `public` | Static assets such as images and icons |
+| Folder            | Description                              |
+| ----------------- | ---------------------------------------- |
+| `apps/miniapp`    | Main Telegram Mini App application       |
+| `src/components`  | Reusable UI components                   |
+| `src/hooks`       | Custom React hooks and application logic |
+| `src/services`    | API communication and external services  |
+| `src/utils`       | Helper functions and utilities           |
+| `packages/shared` | Shared code between applications         |
+| `public`          | Static assets such as images and icons   |
 
 ## Screenshots
 
-![Home](screenshots/home.png)
+<img src="screenshots/photo_2026-07-10_18-01-33.jpg" width="300"/>
+<img src="screenshots/photo_2026-07-10_18-01-38.jpg" width="300"/>
+<img src="screenshots/photo_2026-07-10_18-01-41.jpg" width="300"/>
+<img src="screenshots/photo_2026-07-10_18-01-43.jpg" width="300"/>
+<img src="screenshots/photo_2026-07-10_18-01-45.jpg" width="300"/>
