@@ -69,6 +69,5 @@ Local-Ai-Navigator/
 <img src="screenshots/photo_2026-07-10_18-01-41.jpg" width="300"/>
 <img src="screenshots/photo_2026-07-10_18-01-43.jpg" width="300"/>
 <img src="screenshots/photo_2026-07-10_18-01-45.jpg" width="300"/>
-![Home](screenshots/home.png)
 
 ![Telegram](screenshots/telegram.png)
