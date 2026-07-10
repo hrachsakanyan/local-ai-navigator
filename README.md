@@ -64,16 +64,15 @@ Local-Ai-Navigator/
 
 ## Screenshots
 
-
 <div>
-  <img src="screenshots/photo_2026-07-10_18-01-33.jpg" width="220" height="450"/>
-  <img src="screenshots/photo_2026-07-10_18-01-38.jpg" width="220" height="450"/>
-  <img src="screenshots/photo_2026-07-10_18-01-41.jpg" width="220" height="450"/>
+  <img src="screenshots/photo_2026-07-10_18-01-33.jpg" width="220" height="450" style="object-fit: cover;"/>
+  <img src="screenshots/photo_2026-07-10_18-01-38.jpg" width="220" height="450" style="object-fit: cover;"/>
+  <img src="screenshots/photo_2026-07-10_18-01-41.jpg" width="220" height="450" style="object-fit: cover;"/>
 </div>
 
 <br/>
 
 <div>
-  <img src="screenshots/photo_2026-07-10_18-01-43.jpg" width="220" height="450"/>
-  <img src="screenshots/photo_2026-07-10_18-01-45.jpg" width="220" height="450"/>
+  <img src="screenshots/photo_2026-07-10_18-01-43.jpg" width="220" height="450" style="object-fit: cover;"/>
+  <img src="screenshots/photo_2026-07-10_18-01-45.jpg" width="220" height="450" style="object-fit: cover;"/>
 </div>
