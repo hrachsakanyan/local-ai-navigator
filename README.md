@@ -62,7 +62,6 @@ Local-Ai-Navigator/
 | `packages/shared` | Shared code between applications         |
 | `public`          | Static assets such as images and icons   |
 
-## Screenshots
 
 <p align="center">
   <img src="screenshots/1.png" width="250"/>
