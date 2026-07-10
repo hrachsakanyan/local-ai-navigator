@@ -64,9 +64,6 @@ Local-Ai-Navigator/
 
 ## Screenshots
 
-## Screenshots
-
-## Screenshots
 
 <div>
   <img src="screenshots/photo_2026-07-10_18-01-33.jpg" width="220" height="450"/>
