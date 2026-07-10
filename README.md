@@ -65,5 +65,3 @@ Local-Ai-Navigator/
 ## Screenshots
 
 ![Home](screenshots/home.png)
-
-![Telegram](screenshots/telegram.png)
