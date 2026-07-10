@@ -95,5 +95,3 @@ The interface combines:
 
 GitHub:  
 https://github.com/hrachsakanyan
-  <img src="screenshots/2.png" width="250"/>
-</p>
