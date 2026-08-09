@@ -1,26 +1,26 @@
-# Local AI Navigator 🚀
+# Local AI Navigator 🧭
 
 Local AI Navigator is an AI-powered navigation assistant designed to help users discover and explore places using modern AI technologies.
 
 The project combines location-based services, AI recommendations, and an interactive interface to create a smarter way of finding useful places around you.
 
-## ✨ Features
+## 🌟 Features
 
-- 🤖 AI-powered place recommendations
-- 📍 Location-based navigation
-- 🗺️ Explore nearby places
-- 💬 Interactive AI assistant
-- 📱 Telegram Mini App integration
-- 🔎 Smart search and discovery experience
+* 🧠 AI-powered place recommendations
+* 📌 Location-based navigation
+* 🗺️ Explore nearby places
+* 💡 Interactive AI assistant
+* 📱 Telegram Mini App integration
+* 🔍 Smart search and discovery experience
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Next.js
-- **Backend:** Node.js
-- **AI Integration**
-- **Telegram Mini Apps API**
-- **Location Services**
-- **Turborepo Monorepo**
+* **Frontend:** React / Next.js
+* **Backend:** Node.js
+* **AI Integration**
+* **Telegram Mini Apps API**
+* **Location Services**
+* **Turborepo Monorepo**
 
 ## 📂 Project Structure
 
@@ -62,30 +62,16 @@ Local-Ai-Navigator/
 | `packages/shared` | Shared code between applications         |
 | `public`          | Static assets such as images and icons   |
 
-
 ## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/1.png" width="250"/>
-  <img src="screenshots/5.png" width="250"/>
-  <img src="screenshots/4.png" width="250"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="screenshots/3.png" width="250"/>
-  <img src="screenshots/2.png" width="250"/>
-</p>
 
 ## 🎨 Design Philosophy
 
 The interface combines:
 
-- 🍎 Apple Maps inspired navigation
-- 🏠 Airbnb inspired place cards
-- 📱 Mobile-first user experience
-- ✨ Clean and intuitive interactions
+* 🍎 Apple Maps inspired navigation
+* 🏡 Airbnb inspired place cards
+* 📱 Mobile-first user experience
+* ✨ Clean and intuitive interactions
 
 ---
 
@@ -93,5 +79,5 @@ The interface combines:
 
 **Hrach Sakanyan**
 
-GitHub:  
+GitHub:
 https://github.com/hrachsakanyan
