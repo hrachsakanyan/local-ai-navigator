@@ -50,7 +50,7 @@ Local-Ai-Navigator/
 └── README.md
 ```
 
-## 📁 Folder Description
+## 📁 Folder Description 
 
 | Folder            | Description                              |
 | ----------------- | ---------------------------------------- |
