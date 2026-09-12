@@ -4,7 +4,7 @@ Local AI Navigator is an AI-powered navigation assistant designed to help users 
 
 The project combines location-based services, AI recommendations, and an interactive interface to create a smarter way of finding useful places around you.
 
-## 🌟 Features 
+## 🌟 Features
 
 * 🧠 AI-powered place recommendations
 * 📌 Location-based navigation
