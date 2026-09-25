@@ -63,7 +63,7 @@ Local-Ai-Navigator/
 | `public`          | Static assets such as images and icons   |
 
 
-## 🎨 Design Philosophy 
+## 🎨 Design Philosophy
 
 The interface combines:
 
