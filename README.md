@@ -1,4 +1,4 @@
-# Local AI Navigator 🧭 
+# Local AI Navigator 🧭
 
 Local AI Navigator is an AI-powered navigation assistant designed to help users discover and explore places using modern AI technologies.
 
